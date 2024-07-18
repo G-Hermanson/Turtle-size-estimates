@@ -1,4 +1,4 @@
-# Data and code associated with Hermanson & Evers
+# Data and code associated with Hermanson & Evers ([link](202X))
 
 ## This repository includes:
 
