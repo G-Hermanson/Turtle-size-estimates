@@ -16,19 +16,19 @@ ttest <- function(reg1, coefnun, reg2){
   return(out)
 }
 
-#Compare intercept and slope of PGLS vs. OLS of LIMBS dataset best model (femur vs. humerus + ecology)
+#Compare intercept and slope of PGLS vs. OLS of LIMBS dataset purely allometric model (femur vs. humerus)
 #Slope
 ttest(reg1=LIMBS_pgls.models$general$lambda_ML,
       coefnun = 2, 
       reg2 = LIMBS_pgls.models$general$lambda_zero)
 
-#Compare intercept and slope of PGLS vs. OLS of HUM dataset best model (body size vs. humerus + ecology)
+#Compare intercept and slope of PGLS vs. OLS of HUM dataset purely allometric model (body size vs. humerus)
 #Slope
 ttest(reg1=HUM_pgls.models$general$lambda_ML,
       coefnun = 2, 
       reg2 = HUM_pgls.models$general$lambda_zero)
 
-#Compare intercept and slope of PGLS vs. OLS of FEM dataset best model (body size vs. femur)
+#Compare intercept and slope of PGLS vs. OLS of FEM dataset purely allometric model (body size vs. femur)
 #Slope
 ttest(reg1=FEM_pgls.models$general$lambda_ML,
       coefnun = 2, 
