@@ -22,7 +22,7 @@ AICc.phylolm<-function(mod, return.K = FALSE, second.ord = TRUE, nobs = NULL, ..
 
 ##Read data
 
-dat <- read.table('size_data.csv',header = T,row.names = NULL, sep=',')
+dat <- read.table('SupplementaryFileS1 (raw data).csv',header = T,row.names = NULL, sep=',')
 head(dat)
 
 cols <- c('darkorange','greenyellow','#6EB8CC','#D8A068','#8E8375','#7D87C9','gray80',
