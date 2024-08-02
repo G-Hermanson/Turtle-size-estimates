@@ -8,5 +8,5 @@
 ## The folder also includes Supplementary Figures
 
 - _1_LIMBS_suppl_plot_ refers to Figure 1 in the Main Text, but with individual datapoints labelled as numbers for identification of individual taxa. This figure compares log10-transformed femur length (y-axis) versus log10-transformed humerus length (x-axis).
-- _2_HUM_suppl_plot_ refers to Figure 1 in the Main Text, but with individual datapoints labelled as numbers for identification of individual taxa. This figure compares log10-transformed straight carapace length (y-axis) versus log10-transformed humerus length (x-axis).
-- _3_FEM_suppl_plot_ refers to Figure 1 in the Main Text, but with individual datapoints labelled as numbers for identification of individual taxa. This figure compares log10-transformed straight carapace length (y-axis) versus log10-transformed femur length (x-axis).
+- _2_HUM_suppl_plot_ refers to Figure 2 in the Main Text, but with individual datapoints labelled as numbers for identification of individual taxa. This figure compares log10-transformed straight carapace length (y-axis) versus log10-transformed humerus length (x-axis).
+- _3_FEM_suppl_plot_ refers to Figure 3 in the Main Text, but with individual datapoints labelled as numbers for identification of individual taxa. This figure compares log10-transformed straight carapace length (y-axis) versus log10-transformed femur length (x-axis).
