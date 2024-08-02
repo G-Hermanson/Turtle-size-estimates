@@ -2,7 +2,7 @@
 
 ## This repository includes:
 
-- raw data of measurements available in `xlsx` and `csv` formats
-- phylogenetic tree file in `Newick` format used in PGLS regressions
+- raw data of measurements available in  `csv` format
+- phylogenetic tree files used in PGLS regressions
 - `R` scripts used to perform analyses and produce figures in the publication
 - all supplementary files (tables, text and figures) related to the publication
