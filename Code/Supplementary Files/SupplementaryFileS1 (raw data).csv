@@ -1,0 +1,369 @@
+Taxon,Specimen,Correct_taxonomy,Clade,HL_mm,FL_mm,SCL_mm,Max_SCL_F_mm,Max_SCL_M_mm,Ratio_F,Ratio_M,Terr_spec,Aq_spec,Trion,Sex,To_use,Reason_exclusion,Material,Source
+Acanthochelys_spixii,UMMZ 115653,Acanthochelys_spixii,Chelidae,21.84,23.43,116.93,180,178,0.649611111,0.656910112,0,0,0,unknown,yes,NA,extant,This study
+Actinemys_marmorata,USNM 220752,Actinemys_marmorata,Emysternia,36.71,40.11,147.01,200,241,0.73505,0.61,0,0,0,unknown,yes,NA,extant,This study
+Actinemys_marmorata,AMNH R68856,Actinemys_marmorata,Emysternia,35.71,38.69,156,200,241,0.78,0.647302905,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Adocus_amtgai,PIN 3640-3,Adocus_amtgai,Trionychia,71.3,70,400,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Syromyatnikova_et_al_2013
+Adocus_sp,CCM 60-15,Adocus_sp,Trionychia,96,NA,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Meylan_Gaffney_1989
+Aldabrachelys_gigantea,SMF 37072,Aldabrachelys_gigantea,Testudinidae,280.1,218,803.7,1140,1380,0.705,0.582391304,1,0,0,male,yes,NA,extant,This study
+Aldabrachelys_gigantea,USNM 269964,Aldabrachelys_gigantea,Testudinidae,184.58,147.92,775,1140,1380,0.679824561,0.561594203,1,0,0,male,no,size threshold,extant,Young_et_al_2019
+Allaeochelys_crassesculpta,SMF ME 2449,Allaeochelys_crassesculpta,Trionychia,33.3,24.7,175,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Joyce_et_al_2012
+Amyda_cartilaginea,USNM 029550,Amyda_cartilaginea,Trionychia,101.9,96.98,282.86,563,563,0.502415631,0.502415631,0,0,1,unknown,no,size threshold,extant,This study
+Amyda_cartilaginea,USNM 222522,Amyda_cartilaginea,Trionychia,92,101.21,295,563,563,0.523978686,0.523978686,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Angolachelys_mbaxi,MGUAN-PA 296,Angolachelys_mbaxi,stem,164.8,NA,NA,NA,563,NA,NA,0,0,0,NA,yes,NA,fossil,OToole_2020
+Annemys_latiens,PIN 4636-7,Annemys_latiens,stem,49.5,NA,260,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Rabi_et_al_2014 (SCL estimated)
+Anosteira_gracilis,type,Allaeochelys_crassesculpta,Trionychia,26,NA,169,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Harrassowitz_1922
+Apalone_ferox,USNM 071069,Apalone_ferox,Trionychia,68.5,68.5,227.33,442,442,0.514321267,0.514321267,0,0,1,unknown,no,size threshold,extant,This study
+Apalone_ferox,USNM 222548,Apalone_ferox,Trionychia,76.05,76.92,377,442,442,0.852941176,0.852941176,0,0,1,female,yes,NA,extant,Young_et_al_2019
+Apalone_mutica,UMZC R18195,Apalone_mutica,Trionychia,27.11,28.8,82.4,180,180,0.457777778,0.457777778,0,0,1,unknown,no,size threshold,extant,This study
+Apalone_mutica,CMNH 39816,Apalone_mutica,Trionychia,50.31,56.61,177,180,180,0.983333333,0.983333333,0,0,1,female,yes,NA,extant,Young_et_al_2019
+Apalone_spinifera,USNM 562752,Apalone_spinifera,Trionychia,59.67,62.37,198,288,288,0.6875,0.6875,0,0,1,female,yes,NA,extant,Young_et_al_2019
+Aragochersis_lignitesta,MAP 7824,Aragochersis_lignitesta,stem,79,102.4,450,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,PereGarcia_et_al_2020
+Araripemys_barretoi,LP-UFC 722,Araripemys_barretoi,Pelomedusoides,46,47.7,200,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Limaverde_et_al_2020
+Archelon_ischyros,type (Wieland 1909),Archelon_ischyros,Chelonioidea,580,460,1930,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Wieland_1896; 1909
+Archelon_ischyros,NHMW-Geo 1977/1902/0001,Archelon_ischyros,Chelonioidea,589,481,1980,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Sketchfab (https://skfb.ly/onAWX)
+Ashleychelys_palmeri,ChM PV7002,Ashleychelys_palmeri,Chelonioidea,63.9,NA,376,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Weems_Sanders_2014
+Astrochelys_radiata,UF67621,Astrochelys_radiata,Testudinidae,74.16,64.05,343,356,395,0.963483146,0.86835443,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Astrochelys_yniphora,AMNH R119971,Astrochelys_yniphora,Testudinidae,91.29,76.76,403,426,519,0.94600939,0.776493256,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Atlantochelys_mortoni,ANSP9234_and_NJSMGP23363,Atlantochelys_mortoni,Chelonioidea,469,NA,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Parris_et_aL_2014
+Baena_riparia,AMNH FARB 1112,Baena_arenosa,stem,67,68,320,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Hay_1908
+Bairdemys_healeyorum,SC 90.16,Bairdemys_healeyorum,Pelomedusoides,117,157,382,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Weems_Knight_2013
+Baptemys_wyomingensis,USNM 13437,Baptemys_wyomingensis,Chelydroidea,113,116,427,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Knauss_2014
+Basilemys_sp,AMNH FARB 5448,Basilemys_variolosa,Trionychia,201.4,180,891.5,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,This study
+Batagur_baska,SMF 7459,Batagur_baska,Geoemydidae,79.98,91.8,439.97,609,490,0.722446634,0.897897959,0,0,0,unknown,yes,NA,extant,This study
+Cambaremys_langertoni,CPP-0252,Cambaremys_langertoni,Pelomedusoides,33.7,44.1,250,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Franca_Langer_2005
+Caretta_caretta,USNM 214140,Caretta_caretta,Chelonioidea,148.37,136.14,735,1149,1250,0.639686684,0.588,0,1,0,female,yes,NA,extant,Young_et_al_2019
+Caretta_caretta,AMNH 129869,Caretta_caretta,Chelonioidea,114.3,96.5,586.9,1149,1250,0.510791993,0.46952,0,1,0,unknown,no,size threshold,extant,This study
+Carettochelys_insculpta,SMF 56626,Carettochelys_insculpta,Trionychia,83.5,73.4,472.42,525,413,0.899847619,1.143874092,0,1,0,,yes,NA,extant,This study
+Carettochelys_insculpta,AMNH R84212,Carettochelys_insculpta,Trionychia,76.24,89.1,493,525,413,0.939047619,1.1937046,0,1,0,,yes,NA,extant,Young_et_al_2019
+Cearachelys_placidoi,BSPG 1976 I 160,Cearachelys_placidoi,Pelomedusoides,37.3,42.8,141,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,This study
+Centrochelys_sulcata,NMB C3726,Centrochelys_sulcata,Testudinidae,95.81,76.93,385.41,578,860,0.666799308,0.448151163,1,0,0,female,yes,NA,extant,This study
+Centrochelys_sulcata,CMNH 155273,Centrochelys_sulcata,Testudinidae,91.57,76.92,333,578,860,0.576124567,0.387209302,1,0,0,unknown,no,size threshold,extant,Young_et_al_2019
+Chedighaii_barberi,FMNH P27405,Chedighaii_barberi,Pelomedusoides,97.5,NA,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Zangerl_1948
+Cheirogaster_perpiniana,MNHN_exhibition P?,Titanochelon_perpiniana,Testudinidae,278,217,1140,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,LapparentdeBroin_2002
+Chelodina_expansa,USNM 067733,Chelodina_expansa,Chelidae,59.8,76.67,269.88,500,337,0.53976,0.800830861,0,0,0,male,yes,NA,extant,This study
+Chelodina_longicollis,UMZC R18175,Chelodina_longicollis,Chelidae,25.37,31.4,139.52,282,249,0.494751773,0.560321285,0,0,0,male,no,size threshold,extant,This study
+Chelodina_longicollis,MVZ Herp 106891,Chelodina_longicollis,Chelidae,29.24,36.91,149.73,282,249,0.530957447,0.601325301,0,0,0,male,yes,NA,extant,This study
+Chelodina_novaeguineae,UF H43911,Chelodina_novaeguineae,Chelidae,25.44,31.78,143.01,218,151,0.656009174,0.947086093,0,0,0,unknown,yes,NA,extant,This study
+Chelodina_parkeri,USNM 231524,Chelodina_parkeri,Chelidae,38.36,47.2,228.99,353,274,0.648696884,0.835729927,0,0,0,female,yes,NA,extant,This study
+Chelonia_mydas,USNM 220773,Chelonia_mydas,Chelonioidea,201,146.47,1068,1410,1080,0.757446809,0.988888889,0,1,0,female,yes,NA,extant,Young_et_al_2019
+Chelonia_mydas,AMNH 5912,Chelonia_mydas,Chelonioidea,148.9,97.9,691.1,1410,1080,0.490141844,0.639907407,0,1,0,unknown,no,size threshold,extant,This study
+Chelonoidis_carbonarius,UF H52533,Chelonoidis_carbonarius,Testudinidae,54.1,43,230.55,442,600,0.521606335,0.38425,1,0,0,male,no,size threshold,extant,This study
+Chelonoidis_carbonarius,ARCH-H-0175,Chelonoidis_carbonarius,Testudinidae,62.79,54.2,277.16,442,600,0.627058824,0.461933333,1,0,0,female,yes,NA,extant,This study
+Chelonoidis_carbonarius,AMNH R62590,Chelonoidis_carbonarius,Testudinidae,94.41,75.49,454,442,600,1.027149321,0.756666667,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Chelonoidis_chilensis,UF H52530,Chelonoidis_chilensis,Testudinidae,50.7,48.5,212.57,433,239,0.490923788,0.889414226,1,0,0,female,no,size threshold,extant,This study
+Chelonoidis_chilensis,UF33621,Chelonoidis_chilensis,Testudinidae,46.91,42.55,199,433,239,0.459584296,0.832635983,1,0,0,female,no,size threshold,extant,Young_et_al_2019
+Chelonoidis_denticulatus,CMNH 108720,Chelonoidis_denticulatus,Testudinidae,103.84,90.5,484,731,820,0.662106703,0.590243902,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Chelonoidis_niger,USNM 102904,Chelonoidis_niger,Testudinidae,162.8,131.1,616.75,1220,1358,0.505532787,0.45416053,1,0,0,female,no,size threshold,extant,This study
+Chelonoidis_niger,AMNH R63415,Chelonoidis_niger,Testudinidae,130.02,110.91,609,1220,1358,0.499180328,0.448453608,1,0,0,unknown,no,size threshold,extant,Young_et_al_2019
+Chelus_fimbriatus,NHMUK 1934.5.1.1,Chelus_fimbriatus,Chelidae,39.04,47.66,250.31,437,428,0.572791762,0.584836449,0,0,0,male,no,size threshold,extant,This study
+Chelus_fimbriatus,SMF 37146,Chelus_fimbriatus,Chelidae,76.19,89.84,376.69,437,428,0.861990847,0.880116822,0,0,0,unknown,yes,NA,extant,This study
+Chelydra_serpentina,UNIFR unnumbered,Chelydra_serpentina,Chelydroidea,86.63,90.07,326,390,503,0.835897436,0.648111332,0,0,0,unknown,yes,NA,extant,This study
+Chelydropsis_murchisoni,BSP 1979 I 137,Chelydropsis_murchisoni,Chelydroidea,71,NA,330,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Gaffney_Schleich_1994
+Chelydropsis_sp,NMB Sth2580b,Chelydropsis_murchisoni,Chelydroidea,NA,74.07,231,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,This study
+Chersina_angulata,MVZ Herp 257055,Chersina_angulata,Testudinidae,35.73,29.83,152.36,216,351,0.70537037,0.434074074,1,0,0,female,yes,NA,extant,This study
+Chersina_angulata,AMNH R147509,Chersina_angulata,Testudinidae,47.17,40.6,209,216,351,0.967592593,0.595441595,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Chersobius_signatus,UF H103486,Chersobius_signatus,Testudinidae,20.57,19.16,93.6,110,96,0.850909091,0.975,1,0,0,female,yes,NA,extant,This study
+Chitra_chitra,CRI11756,Chitra_chitra,Trionychia,88.9,93.5,331,738,738,0.448509485,0.448509485,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Chitra_indica,SMF 52769,Chitra_indica,Trionychia,113.9,115.5,395.67,724,724,0.546505525,0.546505525,0,0,1,unknown,no,size threshold,extant,This study
+Chitra_indica,CRI7044,Chitra_indica,Trionychia,82.86,85.06,294,724,724,0.406077348,0.406077348,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Chitra_vandijki,CRI5050,Chitra_vandijki,Trionychia,103.34,111.43,353,724,724,0.487569061,0.487569061,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Chrysemys_picta,OUMNH 8797,Chrysemys_picta,Emysternia,26.4,29,129.18,266,225,0.485639098,0.574133333,0,0,0,unknown,no,size threshold,extant,This study
+Chrysemys_picta,YPM VZ19741,Chrysemys_picta,Emysternia,25.7,27.3,135.6,266,225,0.509774436,0.602666667,0,0,0,female,no,size threshold,extant,This study
+Chrysemys_picta,UF H117735,Chrysemys_picta,Emysternia,26.7,29.66,136.64,266,225,0.513684211,0.607288889,0,0,0,female,no,size threshold,extant,This study
+Chrysemys_picta,CMNH 96156,Chrysemys_picta,Emysternia,37.02,41.03,191,266,225,0.718045113,0.848888889,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Chupacabrachelys_complexus,TMM 45606–1,Chupacabrachelys_complexus,Pelomedusoides,98,NA,730,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Lehman_Wick_2010
+Claudius_angustatus,MVZ Herp 164771,Claudius_angustatus,Chelydroidea,15.9,17.5,88.89,150,165,0.5926,0.538727273,0,0,0,unknown,no,size threshold,extant,This study
+Clemmys_guttata,NCSM Herp 34290,Clemmys_guttata,Emysternia,20.61,21.02,85.42,126,127,0.677936508,0.672598425,0,0,0,male,yes,NA,extant,This study
+Clemmys_guttata,AMNH R75269,Clemmys_guttata,Emysternia,26.66,24.82,115,126,127,0.912698413,0.905511811,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Colossochelys_atlas,AMNH FARB 6332,Megalochelys_atlas,Testudinidae,463.14,318.3,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,This study
+Condorchelys_antiqua,MPEF-PV 10884,Condorchelys_antiqua,stem,43,48,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Sterli_et_al_2018
+Ctenochelys_acris,MSC 35085,Ctenochelys_acris,Chelonioidea,152,NA,902,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Gentry_2016
+Cuora_amboinensis,UMZC R18095,Cuora_amboinensis,Geoemydidae,37.17,36.4,161.36,250,233,0.64544,0.692532189,0,0,0,male,yes,NA,extant,This study
+Cuora_galbinifrons,MVZ Herp 230933,Cuora_galbinifrons,Geoemydidae,32.5,31,138.23,204,186,0.677598039,0.743172043,1,0,0,unknown,yes,NA,extant,This study
+Cuora_mouhotii,SMF 71599,Cuora_mouhotii,Geoemydidae,35.11,32.8,122.76,237,257,0.517974684,0.47766537,1,0,0,unknown,no,size threshold,extant,This study
+Cuora_mouhotii,MVZ Herp 230480,Cuora_mouhotii,Geoemydidae,27.9,27.7,132.04,237,257,0.557130802,0.513774319,1,0,0,unknown,no,size threshold,extant,This study
+Cuora_trifasciata,MVZ Herp 23932,Cuora_trifasciata,Geoemydidae,38.73,44.14,187.1,260,230,0.719615385,0.813478261,0,0,0,unknown,yes,NA,extant,This study
+Cyclanorbis_elegans,CRI8225,Cyclanorbis_elegans,Trionychia,114.49,106.31,414,490,490,0.844897959,0.844897959,0,0,1,unknown,yes,NA,extant,Young_et_al_2019
+Cyclanorbis_senegalensis,CRI3665,Cyclanorbis_senegalensis,Trionychia,53.71,61.02,218,325,325,0.670769231,0.670769231,0,0,1,unknown,yes,NA,extant,Young_et_al_2019
+Cyclemys_atripons,UF H116449,Cyclemys_atripons,Geoemydidae,27.6,28.5,129.45,236,195,0.548516949,0.663846154,0,0,0,female,no,size threshold,extant,This study
+Cyclemys_dentata,CAS Herp 248369,Cyclemys_dentata,Geoemydidae,36.5,39.01,190.82,210,196,0.908666667,0.973571429,0,0,0,male,yes,NA,extant,This study
+Cyclemys_pulchristriata,MVZ Herp 222125,Cyclemys_pulchristriata,Geoemydidae,25.37,26.47,123.98,227,175,0.546167401,0.708457143,0,0,0,female,no,size threshold,extant,This study
+Cycloderma_aubryi,NMB 18295,Cycloderma_aubryi,Trionychia,73.95,77.22,341.48,365,365,0.935561644,0.935561644,0,0,1,unknown,yes,NA,extant,This study
+Cycloderma_aubryi,AMNH R108909,Cycloderma_aubryi,Trionychia,42.59,39.97,166,365,365,0.454794521,0.454794521,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Cyloderma_frenatum,AMNH R110180,Cycloderma_frenatum,Trionychia,89.17,80.04,367,535,535,0.685981308,0.685981308,0,0,1,unknown,yes,NA,extant,Young_et_al_2019
+Deirochelys_reticularia,LSUMZ Herp 81111,Deirochelys_reticularia,Emysternia,36.72,41.82,206.14,260,165,0.792846154,1.249333333,0,0,0,unknown,yes,NA,extant,This study
+Deirochelys_reticularia,UF37555,Deirochelys_reticularia,Emysternia,33.58,37.13,190,260,165,0.730769231,1.151515152,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Dermatemys_mawii,USNM 66669,Dermatemys_mawii,Chelydroidea,71.9,83.6,549,600,479,0.915,1.146137787,0,0,0,unknown,yes,NA,extant,Knauss_2014
+Dermatemys_mawii,NHMUK 1964.22.96,Dermatemys_mawii,Chelydroidea,44.6,51.3,323.03,600,479,0.538383333,0.674384134,0,0,0,female,no,size threshold,extant,This study
+Dermochelys_coriacea,Volkers specimen (1913),Dermochelys_coriacea,Chelonioidea,241.3,150,1240,1550,1550,0.8,0.8,0,1,0,unknown,yes,NA,extant,Volker_1913
+Desmatochelys_lowii,KUVP 1200,Desmatochelys_lowi,Chelonioidea,202,NA,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Hay_1908
+Desmatochelys_lowii,FHSM VP-17470,Desmatochelys_lowi,Chelonioidea,193,NA,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Wilson_2023
+Desmatochelys_lowii,FMNH PR385,Desmatochelys_lowi,Chelonioidea,178.3,147.1,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Zangerl_Sloan_1960
+Desmatochelys_padillai,FCG-CBP 01,Desmatochelys_padillai,Chelonioidea,231.6,NA,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Cadena_Parham_2015
+Dogania_subplana,USNM 222523,Dogania_subplana,Trionychia,69.21,64.11,180,217,217,0.829493088,0.829493088,0,0,1,male,yes,NA,extant,Young_et_al_2019
+Echmatemys_sp,PU 11525,Echmatemys_sp,Geoemydidae,60.4,68.3,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Hay_1908
+Eileanchelys_waldmani,NMS.G.1992.47.51,Eileanchelys_waldmani,stem,28.2,NA,230,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Anquetin_2010
+Elseya_dentata,NHMUK 1875.5.4.8,Elseya_dentata,Chelidae,47.44,56.95,252.32,330,280,0.764606061,0.901142857,0,0,0,male,yes,NA,extant,This study
+Elseya_novaeguineae,MVZ Herp 74895,Elseya_novaeguineae,Chelidae,26.3,30.96,154.57,229,191,0.674978166,0.809267016,0,0,0,unknown,no,fontanels in shell,extant,This study
+Elseya_novaeguineae,USNM 313654,Elseya_novaeguineae,Chelidae,37.7,45.08,211.44,229,191,0.923318777,1.107015707,0,0,0,unknown,yes,NA,extant,This study
+Emydoidea_blandingii,UMZC R18070,Emydoidea_blandingii,Emysternia,37.8,39.97,175.59,232,284,0.756853448,0.618274648,0,0,0,unknown,yes,NA,extant,This study
+Emydoidea_blandingii,MVZ Herp 129944,Emydoidea_blandingii,Emysternia,38.5,40.9,187.39,232,284,0.807715517,0.659823944,0,0,0,unknown,yes,NA,extant,This study
+Emydoidea_blandingii,AMNH R140774,Emydoidea_blandingii,Emysternia,51.63,54.75,220,232,284,0.948275862,0.774647887,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Emydura_macquarrii,NMB C1774,Emydura_macquarii,Chelidae,39.87,46.22,220.77,368,300,0.599918478,0.7359,0,0,0,female,yes,NA,extant,This study
+Emydura_subglobosa,USNM 231518,Emydura_subglobosa,Chelidae,39.97,45.63,233.97,261,200,0.896436782,1.16985,0,0,0,female,yes,NA,extant,This study
+Emys_orbicularis,UMZC R18055,Emys_orbicularis,Emysternia,36.2,40.65,160.23,232,210,0.690646552,0.763,0,0,0,unknown,yes,NA,extant,This study
+Emys_orbicularis,UF57716,Emys_orbicularis,Emysternia,31.16,34.11,134,232,210,0.577586207,0.638095238,0,0,0,male,yes,NA,extant,Young_et_al_2019
+Eochelone_brabantica,IRSNB R0001 (NIG2710/NReg 1661),Eochelone_brabantica,Chelonioidea,144.3,104.7,820,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,This study
+Eosphargis_breineri,Nielsen (1963),Eosphargis_breineri,Chelonioidea,247.8,160,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Nielsen_1963
+Eretmochelys_imbricata,SMF 36067,Eretmochelys_imbricata,Chelonioidea,97.45,76.24,463.93,940,850,0.493542553,0.5458,0,1,0,unknown,no,size threshold,extant,This study
+Eretmochelys_imbricata,AMNH R58562,Eretmochelys_imbricata,Chelonioidea,155.6,131.03,779,940,850,0.828723404,0.916470588,0,1,0,unknown,yes,NA,extant,Young_et_al_2019
+Erymnochelys_madagascariensis,NMB C2196,Erymnochelys_madagascariensis,Pelomedusoides,44.59,50.59,267,430,458,0.620930233,0.582969432,0,0,0,unknown,yes,NA,extant,This study
+Erymnochelys_madagascariensis,SMF 7981,Erymnochelys_madagascariensis,Pelomedusoides,49.39,60.95,386.14,430,458,0.898,0.843100437,0,0,0,unknown,yes,NA,extant,This study
+Euclastes_wielandi,RU EFP 00004,Euclastes_wielandi,Chelonioidea,119,NA,717,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Ullmann_Carr_2021
+Eurysternum_sp,SMNS 59731,Eurysternum_sp,stem,79.1,77,341.35,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,This study
+Gaffneylania_auricularis,MPEF-PV 10556,Gaffneylania_auricularis,stem,170,NA,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Sterli_et_al_2015
+Geochelone_elegans,MVZ Herp 233519,Geochelone_elegans,Testudinidae,41.53,41.42,188.86,467,257,0.404411135,0.734863813,1,0,0,female,no,size threshold,extant,This study
+Geochelone_elegans,CMNH 145707,Geochelone_elegans,Testudinidae,66.25,65.82,298,467,257,0.638115632,1.159533074,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Geoemyda_spengleri,UMMZ 227761,Geoemyda_spengleri,Geoemydidae,22.58,21.83,92.05,128,109,0.719140625,0.844495413,1,0,0,female,yes,NA,extant,This study
+Geoemyda_tricarinata,NHMUK 1929.11.21.5,Melanochelys_tricarinata,Geoemydidae,32.8,32.69,151.16,185,196,0.817081081,0.77122449,1,0,0,female,yes,NA,extant,This study
+Gigantatypus_salahi,ERMNH 1076,Gigantatypus_salahi,Chelonioidea,573.4,NA,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Kaddumi_2006
+Gilmoremys_lancensis,SMM P.67.5.1,Gilmoremys_lancensis,Trionychia,68.87,NA,293.5,NA,NA,NA,NA,0,0,1,NA,yes,NA,fossil,This study
+Glyptemys_insculpta,YPM VZ5947,Glyptemys_insculpta,Emysternia,29.68,31.99,136.09,225,244,0.604844444,0.557745902,1,0,0,female,no,fontanels in shell; humerus underdeveloped,extant,This study
+Glyptemys_insculpta,CMNH 113079,Glyptemys_insculpta,Emysternia,56.08,58.14,241,225,244,1.071111111,0.987704918,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Glyptemys_muhlenbergii,CMNH 122521,Glyptemys_muhlenbergii,Emysternia,20.73,20.79,99,110,115,0.9,0.860869565,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Glyptops_plicatulus,AMNH FARB 336,Glyptops_plicatulus,stem,54.5,63.5,300,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Hay_1908
+Gopherus_agassizii,MVZ Herp 43040,Gopherus_agassizii,Testudinidae,42.76,38.33,171.61,374,330,0.458850267,0.520030303,1,0,0,female,no,size threshold,extant,This study
+Gopherus_agassizii,USNM 222096,Gopherus_agassizii,Testudinidae,61.87,54.46,258,374,330,0.689839572,0.781818182,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Gopherus_berlandieri,MVZ Herp 36747,Gopherus_berlandieri,Testudinidae,52.67,43.56,177.79,210,238,0.846619048,0.747016807,1,0,0,male,yes,NA,extant,This study
+Gopherus_berlandieri,UF62107,Gopherus_berlandieri,Testudinidae,56.33,48.67,214,210,238,1.019047619,0.899159664,1,0,0,male,yes,NA,extant,Young_et_al_2019
+Gopherus_flavomarginatus,USNM 051357,Gopherus_flavomarginatus,Testudinidae,93.55,71.83,334,391,356,0.854219949,0.938202247,1,0,0,female,yes,NA,extant,Young_et_al_2019
+Gopherus_polyphemus,USNM 540796,Gopherus_polyphemus,Testudinidae,65.24,51.08,257.65,425,440,0.606235294,0.585568182,1,0,0,female,yes,NA,extant,This study
+Gopherus_polyphemus,UF151910,Gopherus_polyphemus,Testudinidae,78.25,59.35,318,425,440,0.748235294,0.722727273,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Graptemys_barbouri,UF3356,Graptemys_barbouri,Emysternia,51.8,59.01,263,327,130,0.804281346,2.023076923,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Graptemys_ernsti,UF6819,Graptemys_ernsti,Emysternia,19.11,22.11,96,285,131,0.336842105,0.732824427,0,0,0,unknown,no,size threshold,extant,Young_et_al_2019
+Graptemys_flavimaculata,CMNH 118575,Graptemys_flavimaculata,Emysternia,21.32,23.57,114,223,123,0.511210762,0.926829268,0,0,0,unknown,no,size threshold,extant,Young_et_al_2019
+Graptemys_geographica,USNM 220873,Graptemys_geographica,Emysternia,37.6,44.1,190.4,292,160,0.652054795,1.19,0,0,0,female,yes,NA,extant,This study
+Graptemys_geographica,CMNH 36963,Graptemys_geographica,Emysternia,46.82,52.32,235,292,160,0.804794521,1.46875,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Graptemys_nigrinoda,CMNH 67407,Graptemys_nigrinoda,Emysternia,29.32,35.45,159,221,120,0.719457014,1.325,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Graptemys_oculifera,USNM 015510,Graptemys_oculifera,Emysternia,39.28,46.92,207,215,109,0.962790698,1.899082569,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Graptemys_oculifera,SMF72297,Graptemys_oculifera,Emysternia,23.46,26.67,108,215,109,0.502325581,0.990825688,0,0,0,unknown,no,size threshold,extant,This study
+Graptemys_ouachitensis,CMNH 61656,Graptemys_ouachitensis,Emysternia,40.64,47.46,217,260,160,0.834615385,1.35625,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Graptemys_pseudogeographica,MVZ Herp 250644,Graptemys_pseudogeographica,Emysternia,26.94,32.02,136.57,277,150,0.493032491,0.910466667,0,0,0,male,yes,NA,extant,This study
+Graptemys_pseudogeographica,UF4274,Graptemys_pseudogeographica,Emysternia,42.3,48.87,221,277,150,0.797833935,1.473333333,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Graptemys_pulchra,USNM 266204,Graptemys_pulchra,Emysternia,43.13,53.64,239,279,122,0.856630824,1.959016393,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Graptemys_versa,USNM 290956,Graptemys_versa,Emysternia,34.28,40.29,179,214,116,0.836448598,1.543103448,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Hardella_thurjii,UMMZ 227976,Hardella_thurjii,Geoemydidae,17.22,19,108.01,653,205,0.165405819,0.526878049,0,0,0,unknown,no,size threshold,extant,This study
+Hardella_thurjii,SMF 62898,Hardella_thurjii,Geoemydidae,28.6,31.99,178.11,653,205,0.272756508,0.868829268,0,0,0,female,no,below sex threshold,extant,This study
+Heosemys_spinosa,USNM 070836,Heosemys_spinosa,Geoemydidae,46.74,47.87,197.01,275,275,0.7164,0.7164,0,0,0,unknown,yes,NA,extant,This study
+Homopus_areolatus,OUMNH 9403,Homopus_areolatus,Testudinidae,20.9,18.89,89.2,120,100,0.743333333,0.892,1,0,0,female,yes,NA,extant,This study
+Homopus_areolatus,MVZ Herp 257057,Homopus_areolatus,Testudinidae,25.3,25.39,105.76,120,100,0.881333333,1.0576,1,0,0,female,yes,NA,extant,This study
+Homopus_areolatus,UF43420,Homopus_areolatus,Testudinidae,21.05,23.72,99,120,100,0.825,0.99,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Homopus_femoralis,MVZ Herp 69187,Homopus_femoralis,Testudinidae,25.23,25.46,104.37,168,137,0.62125,0.761824818,1,0,0,female,yes,NA,extant,This study
+Homopus_signatus,AMNH R175220,Chersobius_signatus,Testudinidae,22.21,20.2,102,110,96,0.927272727,1.0625,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Hydromedusa_maximiliani,UMMZ 103240,Hydromedusa_maximiliani,Chelidae,27.25,28.67,142.13,200,170,0.71065,0.836058824,0,0,0,unknown,yes,NA,extant,This study
+Hydromedusa_tectifera,USNM 015189,Hydromedusa_tectifera,Chelidae,43.55,50.43,231.11,306,284,0.755261438,0.813767606,0,0,0,unknown,yes,NA,extant,This study
+Indotestudo_elongata,MVZ Herp 222128,Indotestudo_elongata,Testudinidae,32.39,29.57,137.97,310,380,0.445064516,0.363078947,1,0,0,female,no,size threshold,extant,This study
+Indotestudo_elongata,AMNH R110183,Indotestudo_elongata,Testudinidae,53.98,51.6,276,310,380,0.890322581,0.726315789,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Indotestudo_forstenii,CRI7129,Indotestudo_forstenii,Testudinidae,47.93,45.69,218,254,309,0.858267717,0.705501618,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Judithemys_sukhanovi,TMP 87.02.01,Judithemys_sukhanovi,stem,77,75.21,385,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,This study
+Kachuga_dhongoka,SMF 49717,Batagur_dhongoka,Geoemydidae,59.86,72.65,375.49,480,260,0.782270833,1.444192308,0,0,0,unknown,yes,NA,extant,This study
+Kachuga_kachuga,SMF 48155,Batagur_kachuga,Geoemydidae,57.14,64.01,363.74,560,290,0.649535714,1.254275862,0,0,0,unknown,yes,NA,extant,This study
+Kallokibotion_bajazidi,NHMUK R4921,Kallokibotion_bajazidi,stem,60.6,80.1,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Gaffney_Meylan_1992
+Kinixys_belliana,MVZ Herp 266109,Kinixys_belliana,Testudinidae,38.6,35.66,162.08,230,230,0.704695652,0.704695652,1,0,0,male,yes,NA,extant,This study
+Kinixys_belliana,NHMUK 1969.301,Kinixys_belliana,Testudinidae,37.39,34.47,168.6,230,230,0.733043478,0.733043478,1,0,0,male,yes,NA,extant,This study
+Kinixys_belliana,USNM 222517,Kinixys_belliana,Testudinidae,45.77,42.88,191,230,230,0.830434783,0.830434783,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Kinixys_erosa,CMNH 114617,Kinixys_erosa,Testudinidae,51.6,46.71,191,299,400,0.638795987,0.4775,1,0,0,male,no,below sex threshold,extant,Young_et_al_2019
+Kinixys_homeana,MVZ Herp 83681,Kinixys_homeana,Testudinidae,42.51,37.57,162.39,258,251,0.629418605,0.646972112,1,0,0,male,yes,NA,extant,This study
+Kinixys_homeana,AMNH R43306,Kinixys_homeana,Testudinidae,50.45,44.01,197,258,251,0.763565891,0.784860558,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Kinixys_lobatsiana,MVZ Herp 244883,Kinixys_lobatsiana,Testudinidae,29.62,26.14,124.26,200,170,0.6213,0.730941176,1,0,0,female,no,fontanels in shell,extant,This study
+Kinosternon_acutum,MVZ Herp 264300,Kinosternon_acutum,Chelydroidea,25.46,23.7,128.69,120,105,1.072416667,1.225619048,0,0,0,male,yes,NA,extant,This study
+Kinosternon_alamosae,MVZ Herp 50907,Kinosternon_alamosae,Chelydroidea,20.23,21.13,108.93,126,135,0.86452381,0.806888889,0,0,0,unknown,yes,NA,extant,This study
+Kinosternon_baurii,MVZ Herp 110879,Kinosternon_baurii,Chelydroidea,16.82,16.52,84.64,127,115,0.666456693,0.736,0,0,0,unknown,yes,NA,extant,This study
+Kinosternon_flavescens,MVZ Herp 244070,Kinosternon_flavescens,Chelydroidea,33.67,31.61,163.63,135,147,1.212074074,1.113129252,0,0,0,unknown,yes,NA,extant,This study
+Kinosternon_herrerai,USNM 266194,Kinosternon_herrerai,Chelydroidea,24.14,25.07,131.01,157,172,0.834458599,0.761686047,0,0,0,female,yes,NA,extant,This study
+Kinosternon_hirtipes,UF H45035,Kinosternon_hirtipes,Chelydroidea,19.6,20.21,94.05,160,186,0.5878125,0.505645161,0,0,0,unknown,no,size threshold,extant,This study
+Kinosternon_hirtipes,UF H43506,Kinosternon_hirtipes,Chelydroidea,22.62,22.57,103.94,160,186,0.649625,0.558817204,0,0,0,male,no,below sex threshold,extant,This study
+Kinosternon_hirtipes,MVZ Herp 70691,Kinosternon_hirtipes,Chelydroidea,28.1,30.7,142.51,160,186,0.8906875,0.766182796,0,0,0,unknown,yes,NA,extant,This study
+Kinosternon_integrum,UF H169028,Kinosternon_integrum,Chelydroidea,26.47,27.45,142.38,196,223,0.726428571,0.638475336,0,0,0,unknown,yes,NA,extant,This study
+Kinosternon_integrum,MVZ Herp 68971,Kinosternon_integrum,Chelydroidea,31.73,32.84,167.2,196,223,0.853061224,0.749775785,0,0,0,unknown,yes,NA,extant,This study
+Kinosternon_sonoriense,USNM 017018,Kinosternon_sonoriense,Chelydroidea,23.13,23.96,122.01,175,169,0.6972,0.721952663,0,0,0,female,yes,NA,extant,This study
+Kinosternon_sonoriense,MVZ Herp 269707,Kinosternon_sonoriense,Chelydroidea,28.86,28.65,131.02,175,169,0.748685714,0.775266272,0,0,0,unknown,yes,NA,extant,This study
+Kinosternon_subrubrum,MVZ Herp 137439,Kinosternon_subrubrum,Chelydroidea,16.86,17.31,78.61,125,116,0.62888,0.677672414,0,0,0,unknown,yes,NA,extant,This study
+Kinosternon_subrubrum,OUMNH 8748,Kinosternon_subrubrum,Chelydroidea,18.05,18.31,85.04,125,116,0.68032,0.733103448,0,0,0,unknown,yes,NA,extant,This study
+Leiochelys_tokaryki,RSM P3328.2,Leiochelys_tokaryki,Chelydroidea,22.1,21.6,124.5,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Brinkman_et_al_2022
+Lepidochelys_kempii,AMNH R131151,Lepidochelys_kempii,Chelonioidea,64.57,55.11,320,760,710,0.421052632,0.450704225,0,1,0,unknown,no,size threshold,extant,Young_et_al_2019
+Lepidochelys_olivacea,QM J85545,Lepidochelys_olivacea,Chelonioidea,107.5,92.7,440,793,720,0.554854981,0.611111111,0,1,0,female,yes,NA,extant,This study
+Lepidochelys_olivacea,AMNH R74825,Lepidochelys_olivacea,Chelonioidea,89.01,77.13,404,793,720,0.509457755,0.561111111,0,1,0,unknown,no,size threshold,extant,Young_et_al_2019
+Leucocephalon_yuwonoi,UF H97334,Leucocephalon_yuwonoi,Geoemydidae,43.82,43.74,200.42,240,278,0.835083333,0.720935252,0,0,0,female,yes,NA,extant,This study
+Leyvachelys_cipadi,FCG-CBP-71,Leyvachelys_cipadi,stem,170,202,880,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Cadena_2015
+Lissemys_punctata,USNM 293690,Lissemys_punctata,Trionychia,44.55,49.81,222,370,370,0.6,0.6,0,0,1,male,yes,NA,extant,Young_et_al_2019
+Lissemys_scutata,CRI5036,Lissemys_scutata,Trionychia,39.36,44.41,170,230,230,0.739130435,0.739130435,0,0,1,unknown,yes,NA,extant,Young_et_al_2019
+Macrochelys_temminckii,SMF 7432,Macrochelys_temminckii,Chelydroidea,127.08,133.01,559.55,492,800,1.137296748,0.6994375,0,0,0,unknown,yes,NA,extant,This study
+Macroclemys_sp,AMNH FARB 12445,Macrochelys_sp,Chelydroidea,75.1,88,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,This study
+Malaclemys_terrapin,LSUMZ Herp 57803,Malaclemys_terrapin,Emysternia,24.63,28.19,127.59,320,180,0.39871875,0.708833333,0,0,0,male,no,fontanels in shell,extant,This study
+Malaclemys_terrapin,OUMNH 8798,Malaclemys_terrapin,Emysternia,26.3,30.09,128.26,320,180,0.4008125,0.712555556,0,0,0,unknown,yes,NA,extant,This study
+Malaclemys_terrapin,AMNH R142307,Malaclemys_terrapin,Emysternia,40.62,45.84,200,320,180,0.625,1.111111111,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Malacochersus_tornieri,UF H85285,Malacochersus_tornieri,Testudinidae,26.29,24,121.23,178,170,0.681067416,0.713117647,1,0,0,unknown,yes,NA,extant,This study
+Malacochersus_tornieri,NHMUK 1969.2211-2212,Malacochersus_tornieri,Testudinidae,31.11,28.99,132.27,178,170,0.743089888,0.778058824,1,0,0,unknown,yes,NA,extant,This study
+Malacochersus_tornieri,CMNH 124251,Malacochersus_tornieri,Testudinidae,31.89,30.43,151,178,170,0.848314607,0.888235294,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Malayemys_subtrijuga,NHMUK 1903.4.13.1,Malayemys_subtrijuga,Geoemydidae,27.53,29.11,140.28,237,199,0.591898734,0.704924623,0,0,0,unknown,yes,NA,extant,This study
+Manouria_emys,NMB 10450,Manouria_emys,Testudinidae,117.96,111.98,456.7,580,600,0.787413793,0.761166667,1,0,0,female,yes,NA,extant,This study
+Manouria_emys,SMF 67587,Manouria_emys,Testudinidae,130.18,118.72,535.37,580,600,0.923051724,0.892283333,1,0,0,unknown,yes,NA,extant,This study
+Manouria_emys,CRI4642,Manouria_emys,Testudinidae,87.26,78.76,304,580,600,0.524137931,0.506666667,1,0,0,unknown,no,size threshold,extant,Young_et_al_2019
+Manouria_impressa,SMF 69446,Manouria_impressa,Testudinidae,80.54,76.63,290.05,359,293,0.807938719,0.989931741,1,0,0,unknown,yes,NA,extant,This study
+Manouria_impressa,CRI2900,Manouria_impressa,Testudinidae,72.87,66.77,251,359,293,0.699164345,0.85665529,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Mauremys_leprosa,MVZ Herp 237439,Mauremys_leprosa,Geoemydidae,33.75,38.36,172.26,240,210,0.71775,0.820285714,1,0,0,unknown,yes,NA,extant,This study
+Mauremys_mutica,MVZ Herp 230487,Mauremys_mutica,Geoemydidae,28.52,28.47,130.38,195,196,0.668615385,0.665204082,0,0,0,unknown,yes,NA,extant,This study
+Megalochelys_cf_silvensis,K1588b,Megalochelys_cf_silvensis,Testudinidae,NA,340,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Setiyabudi_2009
+Meiolania_brevicollis,NTM P895-55,Meiolania_brevicollis,stem,168,NA,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Gaffney_1996
+Meiolania_plat_largest_hum,AM F16850+16848,Meiolania_plat_largest_hum,stem,205,NA,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Gaffney_1996
+Meiolania_platyceps,AM F611110_best_carapace,Meiolania_platyceps,stem,NA,134,634.5,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Gaffney_1996; TEWG_2015
+Meiolania_platyceps_largest_fem,AM F1203_largest_femur,Meiolania_platyceps_largest_fem,stem,NA,213,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Gaffney_1996
+Melanochelys_trijuga,NHMUK 1934.11.9.1-3,Melanochelys_trijuga,Geoemydidae,32.6,34.21,161.99,262,383,0.618282443,0.422950392,0,0,0,female,yes,NA,extant,This study
+Mesoclemmys_gibba,UF H65516,Mesoclemmys_gibba,Chelidae,28.36,33.09,160.85,233,200,0.690343348,0.80425,0,0,0,unknown,yes,NA,extant,This study
+Mesoclemmys_raniceps,UF H21632,Mesoclemmys_raniceps,Chelidae,28.33,33.43,154.46,335,334,0.461074627,0.46245509,0,0,0,unknown,no,size threshold,extant,This study
+Mesoclemmys_zuliae,UF H53439,Mesoclemmys_zuliae,Chelidae,46.64,55.44,259.21,279,208,0.9290681,1.246201923,0,0,0,female,yes,NA,extant,This study
+Morenia_ocellata,NHMUK 91.11.26.1-5,Morenia_ocellata,Geoemydidae,31.95,36.48,185.71,239,150,0.777029289,1.238066667,0,0,0,female,yes,NA,extant,This study
+Nanhsiungchelys_wuchingensis,IVPP V3106,Nanhsiungchelys_wuchingensis,Trionychia,210,NA,937,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Tong_Li_2019
+Naomichelys_speciosa,FMNH PR273,Naomichelys_speciosa,stem,143,148,725,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Joyce_et_al_2014
+Natator_depressus,QM J14463,Natator_depressus,Chelonioidea,165,133.6,793,930,884,0.852688172,0.897058824,0,1,0,unknown,yes,NA,extant,This study
+Neurankylus_hutchisoni,UCMP V93118/154450,Neurankylus_hutchisoni,stem,167,NA,679,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Lively_2015
+Neurankylus_torrejonensis,NMMNH P-9049,Neurankylus_torrejonensis,stem,NA,118,520,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Lyson_et_al_2016
+Neusticemys_neuquina,MOZ 6094,Neusticemys_neuquina,stem,125,134,567,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Gasparini_et_al_1997; DeLaFuente_Fernandez_2011
+Nilssonia_formosa,CRI7512,Nilssonia_formosa,Trionychia,65.87,66.12,206,420,420,0.49047619,0.49047619,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Nilssonia_gangetica,SMF 52770,Nilssonia_gangetica,Trionychia,115.02,108.7,544.71,600,600,0.90785,0.90785,0,0,1,unknown,yes,NA,extant,This study
+Nilssonia_gangetica,CRI4391,Nilssonia_gangetica,Trionychia,47.54,47.31,151,600,600,0.251666667,0.251666667,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Nilssonia_hurum,CRI4959,Nilssonia_hurum,Trionychia,49.29,51.42,172,416,416,0.413461538,0.413461538,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Notochelys_platynota,OUMNH 97.12.28.1,Notochelys_platynota,Geoemydidae,51.56,51.77,244.26,330,282,0.740181818,0.866170213,0,0,0,male,yes,NA,extant,This study
+Ocadia_sinensis,MVZ Herp 230479,Mauremys_sinensis,Geoemydidae,37.51,42.54,204.39,271,200,0.754206642,1.02195,0,0,0,unknown,yes,NA,extant,This study
+Oligochelone_rupelensis,IRSNB Vert-18733-03906,Oligochelone_rupelensis,Chelonioidea,104.7,NA,569,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,This study
+Ordosemys_leios,IVPP V9534-1,Ordosemys_leios,stem,55.5,50.7,269,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Brinkman_Peng_1993
+Orlitia_borneensis,USNM 226380,Orlitia_borneensis,Geoemydidae,129.6,135.09,676.31,800,800,0.8453875,0.8453875,0,0,0,male,yes,NA,extant,This study
+Osonachelus_decorata,"MGSB 75110, Geolab T–44",Osonachelus_decorata,Chelonioidea,104.6,76.5,590,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Broin_et_al_2014
+Owadowia_borsukbialynickae,ZPAL V/O-B/1959,Owadowia_borsukbialynickae,stem,NA,135,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Szczygielski_et_al_2017
+Palaeochersis_talampayensis,PUL R068,Palaeochersis_talampayensis,stem,127,119,455,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Szczygielski_et_al_2023
+Palea_steindachneri,CRI11894,Palea_steindachneri,Trionychia,45.92,48.67,159,300,300,0.53,0.53,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Pangshura_smithii,UF H85436,Pangshura_smithii,Geoemydidae,18.76,21.05,100.38,240,128,0.41825,0.78421875,0,0,0,unknown,no,size threshold,extant,This study
+Peligrochelys_walshae,MPEF-PV 10195; MPEF-PV 10831,Peligrochelys_walshae,stem,129.4,115.7,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Sterli_et_al_2019
+Pelochelys_bibroni,USNM 231523,Pelochelys_bibroni,Trionychia,113.74,119.25,337.51,745,745,0.453033557,0.453033557,0,0,1,female,no,size threshold,extant,This study
+Pelochelys_bibroni,CMNH 118595,Pelochelys_bibroni,Trionychia,121.11,133.7,448,745,745,0.601342282,0.601342282,0,0,1,unknown,yes,NA,extant,Young_et_al_2019
+Pelochelys_cantorii,CRI4974,Pelochelys_cantorii,Trionychia,109.97,112.42,369,730,730,0.505479452,0.505479452,0,0,1,unknown,no,size threshold,extant,Young_et_al_2019
+Pelodiscus_sinensis,OUMNH 8801,Pelodiscus_sinensis,Trionychia,34.91,37.55,124.51,201,201,0.619452736,0.619452736,0,0,1,female,yes,NA,extant,This study
+Pelodiscus_sinensis,USNM 539335,Pelodiscus_sinensis,Trionychia,30.82,34.28,104,201,201,0.517412935,0.517412935,0,0,1,female,no,size threshold,extant,Young_et_al_2019
+Pelomedusa_subrufa,UMMZ 197253,Pelomedusa_subrufa,Pelomedusoides,28.62,33.95,141.96,197,197,0.720609137,0.720609137,0,0,0,unknown,yes,NA,extant,This study
+Peltocephalus_dumerilianus,SMF 65407,Peltocephalus_dumerilianus,Pelomedusoides,56.13,60.2,316.43,470,500,0.673255319,0.63286,0,0,0,unknown,yes,NA,extant,This study
+Pelusios_sinuatus,SMF 33053,Pelusios_sinuatus,Pelomedusoides,59.54,70.73,338.27,550,350,0.615036364,0.966485714,0,0,0,unknown,yes,NA,extant,This study
+Pelusios_subniger,UMZC R18170,Pelusios_subniger,Pelomedusoides,21.72,25.04,113.64,200,150,0.5682,0.7576,0,0,0,unknown,no,size threshold,extant,This study
+Phrynops_geoffroanus,SMF 8010,Phrynops_geoffroanus,Chelidae,70.17,78.94,373.33,463,395,0.806328294,0.945139241,0,0,0,unknown,yes,NA,extant,This study
+Phrynops_hilarii,SMF 45470,Phrynops_hilarii,Chelidae,58.8,66.36,310.65,408,356,0.761397059,0.87261236,0,0,0,unknown,yes,NA,extant,This study
+Platemys_platycephala,UMMZ 236444,Platemys_platycephala,Chelidae,27.13,28.09,140.55,167,180,0.841616766,0.780833333,0,0,0,unknown,yes,NA,extant,This study
+Platysternon_megacephalum,NHMUK unnumbered,Platysternon_megacephalum,Emysternia,47.68,51.21,193.53,210,255,0.921571429,0.758941176,0,0,0,unknown,yes,NA,extant,This study
+Plesiobaena_antiqua,TMP 92.36.681,Plesiobaena_antiqua,stem,50.79,NA,235.65,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,This study
+Plesiochelys_bigleri,MJSN SCR010-1279,Plesiochelys_bigleri,stem,NA,135.9,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Puntener_et_al_2017
+Plesiochelys_bigleri,MJSN TCH007-252,Plesiochelys_bigleri,stem,101.6,NA,429,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Puntener_et_al_2017
+Podocnemis_expansa,USNM 222470,Podocnemis_expansa,Pelomedusoides,114.68,150.79,781.84,1090,550,0.717284404,1.421527273,0,0,0,female,yes,NA,extant,This study
+Podocnemis_unifilis,NMB 3904,Podocnemis_unifilis,Pelomedusoides,49.24,63.46,306.37,500,332,0.61274,0.922801205,0,0,0,unknown,yes,NA,extant,This study
+Podocnemis_unifilis,SMF 55470,Podocnemis_unifilis,Pelomedusoides,54.86,68.38,387.9,500,332,0.7758,1.168373494,0,0,0,unknown,yes,NA,extant,This study
+Podocnemis_vogli,SMF 52791,Podocnemis_vogli,Pelomedusoides,44.71,56.22,360,360,277,1,1.299638989,0,0,0,unknown,yes,NA,extant,This study
+Prionochelys_matutina,MSC 1540,Prionochelys_matutina,Chelonioidea,75,NA,550,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Gentry_2018
+Proganochelys_quenstedtii,SMF 09-F2,Proganochelys_quenstedtii,stem,156,NA,550,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Szczygielski_et_al_2023
+Proganochelys_quenstedtii,SMNS 16980,Proganochelys_quenstedtii,stem,134,153,485,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Gaffney_1990
+Proterochersis_porebensis,ZPAL V39/48,Proterochersis_porebensis,stem,NA,127,395,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Szczygielski_et_al_2023
+Proterochersis_porebensis,ZPAL V39/50,Proterochersis_porebensis,stem,106,NA,410,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Szczygielski_et_al_2023
+Protostega_gigas,FMNH UR 79,Protostega_gigas,Chelonioidea,348,295,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Case_1897; Danilov_et_al_2022
+Protostega_gigas,AMNH 180,Protostega_gigas,Chelonioidea,415,353,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Hay_1908; Danilov_et_al_2022
+Protostega_gigas,ALAM unnumbered,Protostega_gigas,Chelonioidea,420,NA,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Renger_1935; Danilov_et_al_2022
+Protostega_gigas,KUVP 1201,Protostega_gigas,Chelonioidea,NA,360,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Williston_1902
+Psammobates_geometricus,AMNH R147542,Psammobates_geometricus,Testudinidae,28.64,24.46,124,165,123,0.751515152,1.008130081,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Psammobates_oculifer,MVZ Herp 65400,Psammobates_oculifer,Testudinidae,18.41,15.82,73.23,147,118,0.498163265,0.62059322,1,0,0,unknown,no,size threshold,extant,This study
+Psammobates_oculifer,AMNH R160186,Psammobates_oculifer,Testudinidae,20.48,23.13,95,147,118,0.646258503,0.805084746,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Psammobates_tentorius,AMNH R139337,Psammobates_tentorius,Testudinidae,32.43,27.44,129,145,120,0.889655172,1.075,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Pseudemys_alabamensis,CMNH 113078,Pseudemys_alabamensis,Emysternia,55.45,60.88,315,375,295,0.84,1.06779661,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Pseudemys_concinna,LSUMZ Herp 81453,Pseudemys_concinna,Emysternia,35.93,41.27,210.07,437,330,0.480709382,0.636575758,0,0,0,unknown,no,size threshold,extant,This study
+Pseudemys_concinna,CMNH 95987,Pseudemys_concinna,Emysternia,57.4,65.64,331,437,330,0.757437071,1.003030303,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Pseudemys_floridana,USNM 222392,Pseudemys_floridana,Emysternia,57.43,65.94,329.85,397,316,0.830856423,1.043829114,0,0,0,unknown,yes,NA,extant,This study
+Pseudemys_gorzugi,USNM 026438,Pseudemys_gorzugi,Emysternia,29.76,33.38,165,400,284,0.4125,0.580985915,0,0,0,unknown,no,size threshold,extant,Young_et_al_2019
+Pseudemys_nelsoni,USNM 335598,Pseudemys_nelsoni,Emysternia,57.43,61.94,282,375,300,0.752,0.94,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Pseudemys_peninsularis,USNM 222391,Pseudemys_peninsularis,Emysternia,70.23,79.81,374,380,320,0.984210526,1.16875,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Pseudemys_rubriventris,USNM 216210,Pseudemys_rubriventris,Emysternia,54.97,61.72,299.53,337,312,0.888813056,0.960032051,0,0,0,female,yes,NA,extant,This study
+Pseudemys_rubriventris,AMNH R99145,Pseudemys_rubriventris,Emysternia,58.52,64.88,302,337,312,0.896142433,0.967948718,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Pseudemys_texana,AMNH R111960,Pseudemys_texana,Emysternia,52.48,60.01,273,330,253,0.827272727,1.079051383,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Ptychogaster_sp,NMB Ph2840-2860,Ptychogaster_sp,Geoemydidae,70.1,61.7,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,This study
+Puppigerus_camperi,NHMUK 14375,Puppigerus_camperi,Chelonioidea,61.7,NA,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,This study
+Pyxis_arachnoides,OUMNH 8782,Pyxis_arachnoides,Testudinidae,27.02,20.44,98.38,157,144,0.626624204,0.683194444,1,0,0,unknown,yes,NA,extant,This study
+Pyxis_arachnoides,UMMZ 227768,Pyxis_arachnoides,Testudinidae,31.83,26.26,130.1,157,144,0.82866242,0.903472222,1,0,0,unknown,yes,NA,extant,This study
+Pyxis_arachnoides,CRI6403,Pyxis_arachnoides,Testudinidae,31.62,26.04,123,157,144,0.78343949,0.854166667,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Pyxis_planicauda,MVZ Herp 234638,Pyxis_planicauda,Testudinidae,25.8,22.52,108.9,159,141,0.68490566,0.772340426,1,0,0,unknown,yes,NA,extant,This study
+Pyxis_planicauda,CRI7065,Pyxis_planicauda,Testudinidae,29.99,26.29,145,159,141,0.911949686,1.028368794,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Rafetus_euphraticus,AMNH R80026,Rafetus_euphraticus,Trionychia,100.65,95.3,295,450,450,0.655555556,0.655555556,0,0,1,unknown,yes,NA,extant,Young_et_al_2019
+Rhinochelys_nammourensis,ESC 2,Rhinochelys_nammourensis,Chelonioidea,52.07,NA,270,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Tong_et_al_2008
+Rhinoclemmys_annulata,MVZ Herp 57593,Rhinoclemmys_annulata,Geoemydidae,22.88,22.86,116.45,226,202,0.515265487,0.576485149,1,0,0,unknown,no,size threshold,extant,This study
+Rhinoclemmys_pulcherrima,NHMUK 1883.4.5.61,Rhinoclemmys_pulcherrima,Geoemydidae,20.28,20.78,103.7,207,181,0.500966184,0.572928177,1,0,0,unknown,no,size threshold,extant,This study
+Rhinoclemmys_pulcherrima,MVZ Herp 79099,Rhinoclemmys_pulcherrima,Geoemydidae,37.69,38.27,178.2,207,181,0.860869565,0.984530387,1,0,0,unknown,yes,NA,extant,This study
+Rhinoclemmys_punctularia,NHMUK unnumbered,Rhinoclemmys_punctularia,Geoemydidae,26.92,28.59,132.01,248,201,0.532298387,0.656766169,0,0,0,female,no,below sex threshold,extant,This study
+Rhinoclemmys_punctularia,SMF 7643,Rhinoclemmys_punctularia,Geoemydidae,32.1,34.49,161.69,248,201,0.651975806,0.804427861,0,0,0,unknown,yes,NA,extant,This study
+Rhinoclemmys_rubida,MVZ Herp 78373,Rhinoclemmys_rubida,Geoemydidae,27.75,29.4,137.82,230,179,0.599217391,0.769944134,0,0,0,unknown,yes,NA,extant,This study
+Sacalia_quadriocellata,NCSM Herp 13265,Sacalia_quadriocellata,Geoemydidae,23.64,24.72,117.95,152,143,0.775986842,0.824825175,0,0,0,male,yes,NA,extant,This study
+Santanachelys_gaffneyi,THUg 1386,Santanachelys_gaffneyi,Chelonioidea,22,NA,146,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Hirayama_1998
+Sichuanchelys_palatodentata,IVPP V18093,Sichuanchelys_palatodentata,stem,28,44.2,230,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Joyce_et_al_2016
+Solitudo_sicula,ZCSP US.0-Q2,Solitudo_sicula,Testudinidae,NA,104,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Valenti_et_al_2022
+Solnhofia_parsonsi,JM SCHA 70,Solnhofia_parsonsi,stem,36,41,184,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Joyce_2000
+Staurotypus_salvinii,UF H33255,Staurotypus_triporcatus,Chelydroidea,44,47.56,257.5,206,186,1.25,1.384408602,0,0,0,unknown,yes,NA,extant,This study
+Sternotherus_carinatus,USNM 059959,Sternotherus_carinatus,Chelydroidea,22.15,23.65,120.96,155,209,0.780387097,0.578755981,0,0,0,male,no,below sex threshold,extant,This study
+Sternotherus_depressus,USNM 258080,Sternotherus_depressus,Chelydroidea,18.99,18.87,92.84,125,99,0.74272,0.937777778,0,0,0,unknown,yes,NA,extant,This study
+Sternotherus_odoratus,LSUMZ Herp 88929,Sternotherus_odoratus,Chelydroidea,20.94,21.31,98.61,150,137,0.6574,0.719781022,0,0,0,unknown,yes,NA,extant,This study
+Sternotherus_odoratus,YPM VZ019736,Sternotherus_odoratus,Chelydroidea,21.69,22.73,105.51,150,137,0.7034,0.770145985,0,0,0,unknown,yes,NA,extant,This study
+Stigmochelys_pardalis,USNM 222502,Stigmochelys_pardalis,Testudinidae,79.03,67.97,292,750,655,0.389333333,0.445801527,1,0,0,unknown,no,size threshold,extant,Young_et_al_2019
+Stupendemys_geographica,AMU-CURS-85,Stupendemys_geographicus,Pelomedusoides,360,NA,1840,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Cadena_et_al_2020
+Stupendemys_geographica,MCNC 244,Stupendemys_geographicus,Pelomedusoides,NA,295,2300,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Wood_1976
+Stupendemys_souzai,UFAC 1764,Stupendemys_souzai,Pelomedusoides,310,NA,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Bocquetin_Melo_2006
+Stylemys_nebrascensis,UMMP VP9318,Stylemys_nebrascensis,Testudinidae,44.2,36.6,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,This study
+Taphrosphys_sulcatus,PU 18707,Taphrosphys_sulcatus,Pelomedusoides,111,122,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Gaffney_1975
+Terlinguachelys_fischbecki,TMM 43072-1,Terlinguachelys_fischbecki,Chelonioidea,286.4,338,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Lehman_Thomlinson_2004
+Terrapene_carolina,LSUMZ Herp 84573,Terrapene_carolina,Emysternia,24.52,24.39,110.95,198,235,0.560353535,0.47212766,1,0,0,unknown,no,size threshold,extant,This study
+Terrapene_carolina,OUMNH 8795,Terrapene_carolina,Emysternia,27.85,28.29,115.09,198,235,0.581262626,0.489744681,1,0,0,unknown,no,size threshold,extant,This study
+Terrapene_carolina,UF151564,Terrapene_carolina,Emysternia,39.74,42.8,179,198,235,0.904040404,0.761702128,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Terrapene_coahuila,AMNH R140861,Terrapene_coahuila,Emysternia,31.37,33.51,136,199,230,0.683417085,0.591304348,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Terrapene_nelsoni,UF27138,Terrapene_nelsoni,Emysternia,30.97,31.91,143,149,159,0.959731544,0.899371069,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Terrapene_ornata,MVZ Herp 250709,Terrapene_ornata,Emysternia,30.45,31.83,129,170,157,0.758823529,0.821656051,1,0,0,unknown,yes,NA,extant,This study
+Terrapene_ornata,USNM 020989,Terrapene_ornata,Emysternia,32.7,35.53,128,170,157,0.752941176,0.815286624,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Testudo_graeca,YPM VZ002925,Testudo_graeca,Testudinidae,27.73,25.17,117.66,316,389,0.372341772,0.302467866,1,0,0,female,no,size threshold,extant,This study
+Testudo_graeca,AMNH R96936,Testudo_graeca,Testudinidae,56.78,56.28,244,316,389,0.772151899,0.627249357,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Testudo_graeca_ibera,SMF67588,Testudo_graeca,Testudinidae,59.71,55.57,220.61,316,389,0.698132911,0.567120823,1,0,0,male,no,below sex threshold,extant,This study
+Testudo_hermanni,MVZ Herp 238087,Testudo_hermanni,Testudinidae,37.55,36.39,145.29,357,314,0.40697479,0.462707006,1,0,0,male,no,size threshold,extant,This study
+Testudo_hermanni,AMNH R6467,Testudo_hermanni,Testudinidae,50.47,46.69,202,357,314,0.565826331,0.643312102,1,0,0,unknown,no,size threshold,extant,Young_et_al_2019
+Testudo_horsfieldii,OUMNH ZC10344,Testudo_horsfieldii,Testudinidae,40.7,38.65,159.48,286,190,0.557622378,0.839368421,1,0,0,female,no,below sex threshold,extant,This study
+Testudo_horsfieldii,MVZ Herp 250427,Testudo_horsfieldii,Testudinidae,45.36,41.67,178.08,286,190,0.622657343,0.937263158,1,0,0,female,yes,NA,extant,This study
+Testudo_horsfieldii,CMNH 114626,Testudo_horsfieldii,Testudinidae,46.84,45.91,169,286,190,0.590909091,0.889473684,1,0,0,female,yes,NA,extant,Young_et_al_2019
+Testudo_kleinmanni,MVZ Herp 229497,Testudo_kleinmanni,Testudinidae,23.59,22.24,111.58,144,106,0.774861111,1.052641509,1,0,0,female,yes,NA,extant,This study
+Testudo_kleinmanni,AMNH R153833,Testudo_kleinmanni,Testudinidae,25.25,23.73,123,144,106,0.854166667,1.160377358,1,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Testudo_marginata,MVZ Herp 247484,Testudo_marginata,Testudinidae,53.14,46.5,234.67,403,420,0.582307692,0.558738095,1,0,0,male,no,below sex threshold,extant,This study
+Testudo_marginata,CMNH 114628,Testudo_marginata,Testudinidae,54.26,49.68,285,403,420,0.70719603,0.678571429,1,0,0,male,yes,NA,extant,Young_et_al_2019
+Testudo_orthopygia,AMNH FARB 1325,Hesperotestudo_orthopygia,Testudinidae,200,150,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Hay_1908
+Testudo_osborniana,AMNH FARB 5868,Hesperotestudo_osborniana,Testudinidae,240,144,775,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Hay_1908
+Thalassemys_bruntrutana,NKMB Watt18/211,Thalassemys_bruntrutana,stem,190,200,820,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Joyce_et_al_2021
+Thalassochelydia_indet,JME 3995,Thalassochelydia_indet,stem,NA,80,NA,NA,NA,NA,NA,0,1,0,NA,yes,NA,fossil,Joyce_et_al_2021
+Titanochelon_sp,FP1-2007-3535,Titanochelon_sp,Testudinidae,NA,275,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Perez_Garcia_et_al_2017
+Toxochelys_latiremis,FHSM VP-700,Toxochelys_latiremis,Chelonioidea,145,NA,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Wilson_2023
+Trachemys_decorata,USNM 063096,Trachemys_decorata,Emysternia,53.95,59.34,271,341,219,0.794721408,1.237442922,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Trachemys_decussata,MVZ Herp 265780,Trachemys_decussata,Emysternia,28.55,30.7,161.13,388,273,0.415283505,0.59021978,0,0,0,unknown,no,size threshold,extant,This study
+Trachemys_decussata,UF21747,Trachemys_decussata,Emysternia,43.01,47.04,228,388,273,0.587628866,0.835164835,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Trachemys_dorbigni,CMNH 96002,Trachemys_dorbigni,Emysternia,30.56,32.57,156,250,230,0.624,0.67826087,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Trachemys_gaigeae,MVZ Herp 250711,Trachemys_gaigeae,Emysternia,39.86,43.55,196.99,270,222,0.729592593,0.887342342,0,0,0,unknown,yes,NA,extant,This study
+Trachemys_nebulosa,MVZ Herp 137443,Trachemys_nebulosa,Emysternia,30.03,32.99,164.34,370,330,0.444162162,0.498,0,0,0,unknown,no,size threshold,extant,This study
+Trachemys_ornata,SMF 7498,Trachemys_ornata,Emysternia,56.7,59.07,284.58,353,359,0.806175637,0.79270195,0,0,0,unknown,yes,NA,extant,This study
+Trachemys_scripta,USNM 521393,Trachemys_scripta,Emysternia,50.32,54.29,246.76,328,261,0.752317073,0.945440613,0,0,0,unknown,yes,NA,extant,This study
+Trachemys_scripta,CMNH 58088,Trachemys_scripta,Emysternia,52.04,53.81,264,328,261,0.804878049,1.011494253,0,0,0,female,yes,NA,extant,Young_et_al_2019
+Trachemys_stejnegeri,UF H49423,Trachemys_stejnegeri,Emysternia,37.2,41.35,206.68,273,210,0.757069597,0.984190476,0,0,0,unknown,yes,NA,extant,This study
+Trachemys_stejnegeri,UF150285,Trachemys_stejnegeri,Emysternia,38.24,43.17,206,273,210,0.754578755,0.980952381,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Trachemys_terrapen,USNM 10351,Trachemys_terrapen,Emysternia,38.5,44,242.58,300,243,0.8086,0.998271605,0,0,0,female,yes,NA,extant,This study
+Trachemys_terrapen,AMNH R160180,Trachemys_terrapen,Emysternia,38.78,42.74,209,300,243,0.696666667,0.860082305,0,0,0,unknown,yes,NA,extant,Young_et_al_2019
+Trionyx_singularis,AMNH FARB 1028,Trionyx_singularis,Trionychia,98.97,109.3,350,NA,NA,NA,NA,0,0,1,NA,yes,NA,fossil,Hay 1907; This study
+Trionyx_triunguis,USNM 509953,Trionyx_triunguis,Trionychia,116.85,128.04,381.84,410,410,0.931317073,0.931317073,0,0,1,unknown,yes,NA,extant,This study
+Trionyx_triunguis,USNM 337920,Trionyx_triunguis,Trionychia,117.13,129.11,384,410,410,0.936585366,0.936585366,0,0,1,male,yes,NA,extant,Young_et_al_2019
+Vijayachelys_silvatica,UF H52515,Vijayachelys_silvatica,Geoemydidae,24.2,24.69,109.23,170,134,0.642529412,0.815149254,1,0,0,unknown,yes,NA,extant,This study
+Xinjiangchelys_junggarensis,V7648,Xinjiangchelys_junggarensis,stem,NA,62.2,NA,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Yeh_1986
+Xinjiangchelys_latimarginalis,IVPP V9537-1,Xinjiangchelys_latimarginalis,stem,73.3,NA,365.2,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Peng_Brinkman_1993
+Xinjiangchelys_wusu,PMOL-SGP A0100-3,Xinjiangchelys_wusu,stem,NA,48.9,201.33,NA,NA,NA,NA,0,0,0,NA,yes,NA,fossil,Rabi_et_al_2013
+Yuchelys_nanyangensis,HGM NR09-11-14,Yuchelys_nanyangensis,Trionychia,128,112,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Tong_et_al_2012
+Zangerlia_neimongolensis,IVPP 020788-7,Zangerlia_neimongolensis,Trionychia,108.6,NA,NA,NA,NA,NA,NA,1,0,0,NA,yes,NA,fossil,Brinkman_Peng_1996
