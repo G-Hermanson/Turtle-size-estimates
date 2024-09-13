@@ -1,0 +1,200 @@
+Genus,Species,Correct_taxonomy,Mass_Male_g,Mass_Female_g,SCL_Male_mm,SCL_Female_mm
+Acanthochelys,macrocephala,Acanthochelys_macrocephala,736.54,1023.81,186.92,197.86
+Acanthochelys,spixii,Acanthochelys_spixii,247.73,330.87,128.79,139.78
+Acanthochelys,spixii,Acanthochelys_spixii,281.5,385.6,129.35,136.43
+Emys,marmorata,Actinemys_marmorata,406,523,137,144
+Emys,marmorata,Actinemys_marmorata,333.33,415.83,133.67,140.67
+Emys,marmorata,Actinemys_marmorata,757.9,719.2,168.9,158.3
+Emys,marmorata,Actinemys_marmorata,787.8,683.8,168.6,154.3
+Astrochelys,radiata,Astrochelys_radiata,6700,5500,334,305
+Astrochelys,radiata,Astrochelys_radiata,5200,6300,312,319
+Astrochelys,yniphora,Astrochelys_yniphora,10300,8800,414.8,370.1
+Astrochelys,yniphora,Astrochelys_yniphora,9500,8280,421.8,366.1
+Batagur,baska,Batagur_baska,8000,16500,395,500
+Caretta,caretta,Caretta_caretta,68000,74000,815,792
+Chelodina,longicollis,Chelodina_longicollis,473,721,172,200
+Chelodina,longicollis,Chelodina_longicollis,531.5,757,178.2,194.95
+Chelodina,oblonga,Chelodina_oblonga,1158.2,702,198,170
+Chelodina,parkeri,Chelodina_parkeri,923.2,1307.9,205,228
+Chelodina,reimanni,Chelodina_reimanni,961,652.5,207,180
+Chelonia,mydas,Chelonia_mydas,57728.57,70055.56,792.84,843.32
+Chelonia,mydas,Chelonia_mydas,147000,163440,1000,1053.1
+Chelonoidis,denticulata,Chelonoidis_denticulatus,9000,8900,444,423
+Chelus,fimbriatus,Chelus_fimbriatus,3460,4470,280,310
+Chelus,fimbriatus,Chelus_fimbriatus,3300,13000,292,417.5
+Chelydra,serpentina,Chelydra_serpentina,4158.7,3160,253.4,238.3
+Chelydra,serpentina,Chelydra_serpentina,11460,7610,359.8,324.7
+Chersina,angulata,Chersina_angulata,1022,879,190,170
+Chersina,angulata,Chersina_angulata,906.6,814.6,181.9,161.3
+Chersina,angulata,Chersina_angulata,916,813,187,168
+Chitra,indica,Chitra_indica,17300,30200,558.3,644.4
+Chitra,indica,Chitra_indica,15000,18000,534,635
+Chrysemys,picta,Chrysemys_picta,176.9,326.7,109.7,134.2
+Chrysemys,picta,Chrysemys_picta,233.41,398.33,127.2,147.2
+Chrysemys,picta,Chrysemys_picta,259,482,123,147
+Chrysemys,picta ssp. marginata,Chrysemys_picta,286.4,422.3,135.8,152.5
+Chrysemys,picta ssp. marginata,Chrysemys_picta,286.4,422.3,135.8,152.5
+Chrysemys,picta ssp. marginata,Chrysemys_picta,291,418.7,139.1,151.9
+Clemmys,guttata,Clemmys_guttata,168,190,105.2,103.8
+Clemmys,guttata,Clemmys_guttata,219.8,212.2,117.9,108.9
+Clemmys,guttata,Clemmys_guttata,102.3,105.9,87.5,88.2
+Kinosternon,leucostomum ,Kinosternon_leucostomum,851,730,175,153
+Kinosternon,leucostomum ,Kinosternon_leucostomum,465,343.7,145,136
+Cuora,amboinensis,Cuora_amboinensis,1500,2000,181.5,225.45
+Cuora,amboinensis ssp kamaroma,Cuora_amboinensis,916.9,933.2,181.5,173.5
+Cuora,amboinensis ssp kamaroma,Cuora_amboinensis,548.5,666.3,151.9,156.4
+Cuora,flavomarginata ssp flavomarginata,Cuora_flavomarginata,419.7,565.6,141.1,154
+Cuora,mccordi,Cuora_mccordi,400,700.5,140.5,163.5
+Cuora,mouhotii,Cuora_mouhotii,491.3,505.6,150,158
+Cyclemys,gemeli,Cyclemys_gemeli,1000,1800,185,221
+Dermatemys,mawii,Dermatemys_mawii,6500,6022.73,381.71,341.57
+Dermochelys,coriacea,Dermochelys_coriacea,320000,387600,1550,1470.8
+Elseya,branderhorsti,Elseya_branderhorsti,2463,959,281,185
+Elseya,novaeguinea,Elseya_novaeguineae,997.3,1334,208,221
+Emys,blandingii,Emydoidea_blandingii,1055.9,998.5,197.7,187.6
+Emys,blandingii,Emydoidea_blandingii,1300,1475,222.5,190
+Emydura,macquarii,Emydura_macquarii,418.8,1125,170.7,223.3
+Emydura,macquarii ssp krefftii,Emydura_macquarii,650,1010,183.5,208.9
+Emydura,subglobosa,Emydura_subglobosa,518.3,1013.9,169,208
+Emys,orbicularis,Emys_orbicularis,408,352.6,136.4,122.6
+Emys,orbicularis,Emys_orbicularis,317.85,480.34,124.91,140.46
+Emys,orbicularis,Emys_orbicularis,336,565,124,146
+Emys,orbicularis,Emys_orbicularis,476.5,433,144.55,129.7
+Eretmochelys,imbricata,Eretmochelys_imbricata,53400,54200,778,765
+Erymnochelys,madagascariensis,Erymnochelys_madagascariensis,5100,4900,352,345
+Geoclemys,hamiltonii,Geoclemys_hamiltonii,5200,6000,201.5,306
+Glyptemys,insculpta,Glyptemys_insculpta,1008,881.7,193.9,181
+Glyptemys,insculpta,Glyptemys_insculpta,1219.4,1060.5,215.6,200.5
+Glyptemys,insculpta,Glyptemys_insculpta,817,658,186,169
+Gopherus,agassizii,Gopherus_agassizii,2826.3,2330.8,252.9,240
+Gopherus,polyphemus,Gopherus_polyphemus,3330.5,3901.3,251.25,279.5
+Gopherus,polyphemus,Gopherus_polyphemus,2870,3623.2,250.73,269.5
+Gopherus,polyphemus,Gopherus_polyphemus,2872.2,3680,243.56,267.76
+Graptemys,flavimaculata,Graptemys_flavimaculata,225,1675,119,214
+Graptemys,geographica,Graptemys_geographica,141.98,368.16,103.48,138.7
+Graptemys,gibbonsi,Graptemys_gibbonsi,340,3150,141,295
+Hardella ,thurjii,Hardella_thurjii,790.3,6300,183,362
+Hardella ,thurjii,Hardella_thurjii,8500,10500,159,631.5
+Heosemys,grandis,Heosemys_grandis,7060,4600.78,368,284.74
+Homopus ,signatus ssp signatus,Homopus_signatus,74.9,131.6,77.9,87.9
+Hydromedusa,tectifera,Hydromedusa_tectifera,1028.9,1528.63,220,241.7
+Hydromedusa,tectifera,Hydromedusa_tectifera,1112.5,1155,197,215.5
+Indotestudo,forstenii,Indotestudo_forstenii,1362.6,1253.05,214.6,208.3
+Indotestudo,forstenii,Indotestudo_forstenii,942.2,1003.9,190.1,186.5
+Indotestudo,travancorica,Indotestudo_travancorica,2100,2000,249.7,238.4
+Kinosternon,hirtipes,Kinosternon_hirtipes,212.7,202.6,112.6,107.4
+Kinosternon,hirtipes ssp chapalaense,Kinosternon_hirtipes,170,510,113.4,150.2
+Kinosternon,hirtipes ssp magdalense,Kinosternon_hirtipes,192.5,300,114.85,123.35
+Kinosternon,scorpioides,Kinosternon_scorpioides,314.05,430.08,147.9,152.6
+Kinosternon,sonoriense,Kinosternon_sonoriense,169,151,114.5,101.7
+Kinosternon,subrubrum,Kinosternon_subrubrum,110.3,118.9,85.5,86.3
+Leucocephalon,yuwonoi,Leucocephalon_yuwonoi,1850,1000,223,172
+Leucocephalon,yuwonoi,Leucocephalon_yuwonoi,2070,1600,228,193
+Leucocephalon,yuwonoi,Leucocephalon_yuwonoi,1460,1200,184,164
+Leucocephalon,yuwonoi,Leucocephalon_yuwonoi,1780,1300,236,196
+Leucocephalon,yuwonoi,Leucocephalon_yuwonoi,1760,1300,229,186
+Leucocephalon,yuwonoi,Leucocephalon_yuwonoi,1800,1200,231.3,185.6
+Leucocephalon,yuwonoi,Leucocephalon_yuwonoi,2000,1200,240.9,193.4
+Lissemys,punctata ssp andersoni,Lissemys_punctata,5000,7000,213.5,306.5
+Macrochelys,temminckii,Macrochelys_temminckii,21300,13400,472,396
+Macrochelys ,temminckii,Macrochelys_temminckii,24600,13100,476.3,361.1
+Malaclemys,terrapin ssp rhizophorarum,Malaclemys_terrapin,258.36,766.45,119.81,166.57
+Malaclemys,terrapin ssp rhizophorarum,Malaclemys_terrapin,221.25,892.02,112.25,172.28
+Malacochersus,tornieri,Malacochersus_tornieri,405.1,470.2,146.3,151.6
+Malacochersus,tornieri,Malacochersus_tornieri,370,410,147.5,147.7
+Mauremys,leprosa,Mauremys_leprosa,577.25,911,165.35,185.3
+Mauremys,nigricans,Mauremys_nigricans,523.5,912,161,184.7
+Mauremys,reevesii,Mauremys_reevesii,353.1,743.3,131.9,165.5
+Mauremys,rivulata,Mauremys_rivulata,109.4,257.5,93.9,119.5
+Mauremys,rivulata,Mauremys_rivulata,381,594,146,168
+Mauremys,sinensis,Mauremys_sinensis,272.8,527.2,126,159.4
+Melanochelys,tricarinata,Melanochelys_tricarinata,1000,1800,135,177.5
+Mesoclemmys,gibba,Mesoclemmys_gibba,428.3,444.7,160,159
+Mesoclemmys,vanderhaegei,Mesoclemmys_vanderhaegei,539,1052,171,203
+Mesoclemmys,vanderhaegei,Mesoclemmys_vanderhaegei,260,453.29,139,168
+Mesoclemmys ,tuberculata,Mesoclemmys_tuberculata,303.3,657.4,127.3,165.2
+Morenia,petersi,Morenia_petersi,1200,1150,178.5,230
+Myuchelys,georgesi,Myuchelys_georgesi,462.2,977.3,161.1,203.9
+Myuchelys,latisternum,Myuchelys_latisternum,257,840,127.6,181.5
+Aspideretes,gangetica,Nilssonia_gangetica,35000,30300,427.1,847.5
+Nilssonia,hurum,Nilssonia_hurum,10200,27000,150,547.5
+Nilssonia,nigricans,Nilssonia_nigricans,15110,35320,491.5,540.55
+Palea,steindachneri,Palea_steindachneri,3260,10100,300,338.33
+Pangshura,smithii,Pangshura_smithii,1000,1500,106,139.5
+Pangshura,sylhetensis,Pangshura_sylhetensis,700,1150,84.5,207.5
+Pangshura,tecta,Pangshura_tecta,700,1000,113.1,126
+Pangshura,tentoria,Pangshura_tentoria,800,1400,124.5,144.5
+Pelusios,sinuatus,Pelusios_sinuatus,4500,7000,350,400
+Phrynops,geoffroanus ,Phrynops_geoffroanus,1488.68,2233.3,259.71,291.77
+Platemys,platycephala,Platemys_platycephala,297.67,259,150.67,137
+Platysternon,megacephalum,Platysternon_megacephalum,366.8,305.5,132.2,122.4
+Podocnemis,expansa,Podocnemis_expansa,6600,9500,419,404
+Podocnemis,lewyana,Podocnemis_lewyana,1700,6700,253,394
+Podocnemis,sextuberculata,Podocnemis_sextuberculata,900,1100,207,209
+Podocnemis,unifilis,Podocnemis_unifilis,1809,4160,249,303
+Podocnemis,unifilis,Podocnemis_unifilis,1500,4400,216,329
+Podocnemis,unifilis ,Podocnemis_unifilis,2330,4460,290.5,355.2
+Podocnemus,unifilis,Podocnemis_unifilis,2260,5770,264,350
+Psammobates,geometricus,Psammobates_geometricus,239.04,441.59,107.37,121.74
+Pseudemydura,umbrina,Pseudemydura_umbrina,311,246,128,113.5
+Pseudemys,concinna,Pseudemys_concinna,1600,3100,266,311
+Pseudemys,concinna ssp suwanniensis,Pseudemys_concinna,1920,6500,269,378
+Pyxis,arachnoides,Pyxis_arachnoides,190,200,111,110
+Pyxis,planicauda,Pyxis_planicauda,360,420,126,132
+Rheodytes,leukops,Rheodytes_leukops,1299,1416,238,239
+Rhinoclemmys,funerea,Rhinoclemmys_funerea,3231.7,2851,279.2,248.9
+Rhinoclemmys,nasuta,Rhinoclemmys_nasuta,407,772,140,160
+Rhinoclemmys,nasuta,Rhinoclemmys_nasuta,392.15,774.38,149.32,180.54
+Rhinoclemmys,nasuta,Rhinoclemmys_nasuta,511.11,882.6,158.69,186.83
+Rhinoclemmys,pulcherrima ssp manni,Rhinoclemmys_pulcherrima,494.3,944.6,139.2,167.1
+Sacalia,quadriocellata,Sacalia_quadriocellata,221.27,284.95,120.24,130.71
+Siebenrockiella,leytensis,Siebenrockiella_leytensis,1799.5,1081.1,223.5,190.6
+Sternotherus,carinatus,Sternotherus_carinatus,280,180,118.61,92.29
+Sternotherus,carinatus,Sternotherus_carinatus,269,227,124.6,115.9
+Sternotherus,carinatus,Sternotherus_carinatus,205,159,111.2,102.3
+Sternotherus,depressus,Sternotherus_depressus,110,84,89,83
+Sternotherus,minor,Sternotherus_minor,231.7,180.7,110.8,103.3
+Sternotherus,odoratus,Sternotherus_odoratus,178,169,106,102
+Sternotherus,odoratus,Sternotherus_odoratus,136.6,161.8,96.4,98.5
+Stigmochelys,pardalis,Stigmochelys_pardalis,8000,13400,392,439.82
+Stigmochelys,pardalis,Stigmochelys_pardalis,7600,15200,354,428
+Stigmochelys,pardalis,Stigmochelys_pardalis,3524,4910,280,286
+Stigmochelys,pardalis,Stigmochelys_pardalis,7600,15200,250,300
+Terrapene,carolina bauri,Terrapene_carolina,546.9,439,151,132
+Terrapene,carolina ssp. bauri,Terrapene_carolina,634.62,593.15,146.9,134.1
+Testudo,graeca,Testudo_graeca,418.4,762,125,147.1
+Testudo,graeca,Testudo_graeca,1159,1535,178.2,194.6
+Testudo,hermanni,Testudo_hermanni,671.93,935.87,142.4,158.94
+Testudo,hermanni,Testudo_hermanni,1161.67,1747.44,177.65,209.36
+Testudo,hermanni,Testudo_hermanni,1360,1780,195,214
+Testudo,hermanni,Testudo_hermanni,1130,1480,177,197
+Testudo,hermanni,Testudo_hermanni,900,1360,170,191
+Testudo,hermanni,Testudo_hermanni,1010,1330,169,185
+Testudo,hermanni,Testudo_hermanni,890,1350,165,189
+Testudo,hermanni,Testudo_hermanni,860,1230,161,181
+Testudo,hermanni,Testudo_hermanni,760,1100,155,175
+Testudo,hermanni,Testudo_hermanni,760,1140,155,177
+Testudo,hermanni,Testudo_hermanni,660,1060,148,174
+Testudo,hermanni,Testudo_hermanni,700,930,151,165
+Testudo,hermanni,Testudo_hermanni,740,880,154,165
+Testudo,hermanni,Testudo_hermanni,740,970,151,166
+Testudo,hermanni,Testudo_hermanni,730,920,155,167
+Testudo,hermanni,Testudo_hermanni,690,930,151,167
+Testudo,hermanni,Testudo_hermanni,610,910,144,163
+Testudo,hermanni,Testudo_hermanni,510,740,135,153
+Testudo,hermanni,Testudo_hermanni,470,820,132,156
+Testudo,hermanni ssp boettgeri,Testudo_hermanni,1042,1422,176.9,196
+Testudo,kleinmanni,Testudo_kleinmanni,163,295,96,112.25
+Testudo,marginata,Testudo_marginata,1845,2099,241.7,246.7
+Trachemys,adiutrix,Trachemys_adiutrix,393.2,732.1,134.3,159.2
+Trachemys,adiutrix,Trachemys_adiutrix,671,1298.1,166.8,201.8
+Trachemys,callirostris,Trachemys_callirostris,581.71,1029.28,156.7,182.4
+Trachemys,dorbigni,Trachemys_dorbigni,868.33,1385.75,178.93,203.08
+Trachemys,dorbigni,Trachemys_dorbigni,1012.6,1947.3,185.9,223.5
+Trachemys,scripta,Trachemys_scripta,660.85,1110.16,164.66,194
+Trachemys,scripta,Trachemys_scripta,896,843.1,188.04,177.83
+Trachemys,scripta,Trachemys_scripta,755.29,971.69,173.11,188.17
+Trachemys,scripta,Trachemys_scripta,820,1330,174,199
+Trachemys,scripta,Trachemys_scripta,637,1193,157,189
+Trachemys,scripta elegans,Trachemys_scripta,953,1388,189,207
+Vijayachelys,silvatica,Vijayachelys_silvatica,163.3,190.9,115.2,116.9
